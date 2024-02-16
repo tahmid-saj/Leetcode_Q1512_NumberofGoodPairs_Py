@@ -1,0 +1,1 @@
+# Leetcode_Q1512_NumberofGoodPairs_Py
